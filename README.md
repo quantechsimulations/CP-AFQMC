@@ -30,13 +30,16 @@ code [6].
 ## Giving Credit
 If you use this code in your work, please cite the associated papers.
 The Arxiv of "Chiral superconductivity in the doped triangular-lattice Fermi-Hubbard model in two dimensions" can be found on https://arxiv.org/abs/2210.13551.
+
 This repository can be cited using:
+```
 @software{cp-afqmc,
   author = {Vinicius Zampronio},
   title = {{CP-AFQMC}},
   url = {https://github.com/quantechsimulations/CP-AFQMC},
   year = {2022},
 }
+```
 
 ## Bibliography
 [1] Shiwei Zhang et al., Phys. Rev. B 55, 7464 (1997).
